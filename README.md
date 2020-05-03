@@ -1,16 +1,29 @@
-# rendamachine
-
+# QuickCountre
 A new Flutter application.
 
-## Getting Started
+# DEMO
+![demo](https://user-images.githubusercontent.com/49640294/80913864-d3fc1780-8d82-11ea-97bf-76dea077422b.gif)
 
-This project is a starting point for a Flutter application.
+# Requirement
+Refer to pubspec.yaml and install flutter-sdk plugin.
+* sqflite etc..
 
-A few resources to get you started if this is your first Flutter project:
+# Environment
+* IDE: Android Studio 3.6
+* Flamework: Flutter 1.17.0
+* channel: stable
+* language: Dart 2.8.0
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# Installation
+Follow the Android studio instructions to install what you need.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Usage
+If you use this repository, please Please install according to the following.
+
+```bash
+git clone https://github.com/RyoichiNakai/QuickCountre_Flutter.git
+```
+
+# Author
+* Name: Ryoichi Nakai
+* E-mail: elmobasketball0913@me.com
